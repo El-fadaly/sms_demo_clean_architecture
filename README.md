@@ -122,8 +122,8 @@ State is managed using the `ChangeNotifier` class, providing reactive UI updates
 For questions or support, please contact:
 
 - **Name**: Abdelrahman Elfadaly
-- **Email**: [your-email@example.com]
-- **GitHub**: [your-github-profile]
+- **Email**: elfadalyabdelrahman@gmail.com
+- **GitHub**: https://github.com/El-fadaly
 
 ---
 
